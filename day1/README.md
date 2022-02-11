@@ -1,17 +1,17 @@
-# day1 notes
+# Day1 notes
 
-- print() function
-ex : 
-    `print("Hii Viewer")`
-    output - Hii Viewer
+print() function <br />
+  Ex : <br />
+    `print("Hii Viewer")`  <br />
+     output - Hii Viewer
 
-- input() function 
-ex : 
-    `input("enter your name viewer")`
-    output - enter your namme viwer __
-    will take string datatype as default.
+input() function <br />
+  Ex : <br />
+    `input("enter your name viewer")`  <br />
+     output - enter your name viwer __ <br />
+     will take string datatype as default.
 
-- variable naming
-    => we cant use integer as 1st letter
-    => we cant use any special symbols except *underscore "_" *
+variable naming <br />
+    => we cant use integer as 1st letter <br />
+    => we cant use any special symbols except **underscore** "_" 
 
